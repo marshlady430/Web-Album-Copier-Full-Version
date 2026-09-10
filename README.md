@@ -236,3 +236,6 @@ This repository serves as the official landing page for Web Album Copier. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Web Album Copier today!**
+
+---
+**Last updated:** 2026-09-10 14:05:57 UTC
