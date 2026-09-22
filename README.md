@@ -238,4 +238,4 @@ This repository serves as the official landing page for Web Album Copier. The so
 **Get the most recent version of Web Album Copier today!**
 
 ---
-**Last updated:** 2026-09-22 09:04:47 UTC
+**Last updated:** 2026-09-22 14:23:10 UTC
